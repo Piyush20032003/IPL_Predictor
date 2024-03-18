@@ -1,0 +1,4 @@
+To run the web page:
+1. Go to terminal
+2. Install Stremlit - pip install streamlit
+3. Write this command on the terminal-  streamlit run app.py
